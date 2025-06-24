@@ -1,0 +1,7 @@
+id,name,age,country,salary,department,joining_date,json_data
+1,Alice,25,USA,60000,IT,2021-01-15,"{""project"": ""X"", ""hours"": 40}"
+2,Bob,30,Canada,70000,Finance,2020-03-22,"{""project"": ""Y"", ""hours"": 35}"
+3,Charlie,35,USA,80000,HR,2019-07-19,"{""project"": ""Z"", ""hours"": 38}"
+4,David,40,UK,90000,IT,2018-12-01,"{""project"": ""X"", ""hours"": 45}"
+5,Eve,28,USA,50000,Finance,2022-08-10,"{""project"": ""Y"", ""hours"": 42}"
+6,Frank,50,UAE,100000,HR,2015-05-30,"{""project"": ""Z"", ""hours"": 30}"
